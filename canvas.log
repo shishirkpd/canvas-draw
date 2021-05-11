@@ -1,0 +1,15 @@
+2021-05-02 13:05:33.580 [main] INFO  com.skp.canvas.actions.ActionsProcessor - entered command C 20 8
+2021-05-02 13:05:33.605 [main] INFO  com.skp.canvas.parser.Parser - Command C 20 8 parsed as [com.skp.canvas.command.CreateCanvasCommand@654] 
+2021-05-02 13:05:33.605 [main] INFO  com.skp.canvas.actions.ActionsProcessor - executing command C 20 8 as com.skp.canvas.command.CreateCanvasCommand@654
+2021-05-02 13:05:33.607 [main] ERROR com.skp.canvas.actions.ActionsProcessor - Drawer set
+2021-05-02 13:05:33.609 [main] DEBUG com.skp.canvas.render.ConsoleRenderer - New Image: 
+ ----------------------
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+----------------------
